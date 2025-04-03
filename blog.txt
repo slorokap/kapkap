@@ -1,45 +1,40 @@
 
 <!doctype html>
-<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" data-authenticated-account>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="id-ID" data-authenticated-account>
 
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <base href="https://blog.poski.com/">
   <meta charset="utf-8" />
-  <title>FIFAWIN78 >> SITUS SLOT GACOR GAMPANG WEDE SLOT777 RESMI VIA DANA</title>
+  <title>FIFAWIN78 >> SITUS BANDAR SLOT GACOR GAMPANG WEDE MAHJONG WAYS 2 PG SOFT</title>
   <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
   <link rel="icon" type="image/x-icon" href="https://lambe.info/wp-content/uploads/2025/01/icon.png" />
   <link rel="amphtml" href="https://pub-1041c1c861bb477bbda595994563137b.r2.dev/blog-poski.html" />
   <link rel="canonical" href="https://blog.poski.com/" />
   <meta property="og:site_name" content="FIFAWIN78" />
-  <meta property="og:title" content="FIFAWIN78 >> SITUS SLOT GACOR GAMPANG WEDE SLOT777 RESMI VIA DANA" />
+  <meta property="og:title" content="FIFAWIN78 >> SITUS BANDAR SLOT GACOR GAMPANG WEDE MAHJONG WAYS 2 PG SOFT" />
   <meta property="og:url" content="https://blog.poski.com/" />
   <meta property="og:type" content="product" />
-  <meta property="og:description" content="FIFAWIN78 adalah penyedia permainan slot gacor terbaik 2025 yang berikan kemudahan cuan dan wede gede buat pemain dengan sistem pembayaran via dana yang membuat makin gacor!!" />
+  <meta property="og:description" content="FIFAWIN78 adalah situs bandar slot online terbaik dan terbukti gacor di berbagai permainan seperti mahjong ways 2 pg soft, pragmatic dan banyak lagi lainnya." />
   <meta property="product:price:amount" content="678.00" />
   <meta property="og:image" content="https://lambe.info/wp-content/uploads/2025/02/slotgacor-20.png" />
   <meta property="og:image:width" content="840" />
   <meta property="og:image:height" content="480" />
   <meta property="product:price:currency" content="IDR" />
   <meta property="product:availability" content="instock" />
-  <meta itemprop="name" content="FIFAWIN78 >> SITUS SLOT GACOR GAMPANG WEDE SLOT777 RESMI VIA DANA" />
+  <meta itemprop="name" content="FIFAWIN78 >> SITUS BANDAR SLOT GACOR GAMPANG WEDE MAHJONG WAYS 2 PG SOFT" />
   <meta itemprop="url" content="https://blog.poski.com/" />
-  <meta itemprop="description" content="FIFAWIN78 adalah penyedia permainan slot gacor terbaik 2025 yang berikan kemudahan cuan dan wede gede buat pemain dengan sistem pembayaran via dana yang membuat makin gacor!!" />
+  <meta itemprop="description" content="FIFAWIN78 adalah situs bandar slot online terbaik dan terbukti gacor di berbagai permainan seperti mahjong ways 2 pg soft, pragmatic dan banyak lagi lainnya." />
   <meta itemprop="thumbnailUrl" content="https://lambe.info/wp-content/uploads/2025/02/slotgacor-20.png" />
   <link rel="image_src" href="https://lambe.info/wp-content/uploads/2025/02/slotgacor-20.png" />
   <meta itemprop="image" content="https://lambe.info/wp-content/uploads/2025/02/slotgacor-20.png" />
-  <meta name="twitter:title" content="FIFAWIN78 >> SITUS SLOT GACOR GAMPANG WEDE SLOT777 RESMI VIA DANA" />
+  <meta name="twitter:title" content="FIFAWIN78 >> SITUS BANDAR SLOT GACOR GAMPANG WEDE MAHJONG WAYS 2 PG SOFT" />
   <meta name="twitter:image" content="https://lambe.info/wp-content/uploads/2025/02/slotgacor-20.png" />
   <meta name="twitter:url" content="https://blog.poski.com/" />
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:description" content="FIFAWIN78 adalah penyedia permainan slot gacor terbaik 2025 yang berikan kemudahan cuan dan wede gede buat pemain dengan sistem pembayaran via dana yang membuat makin gacor!!" />
-  <meta name="description" content="FIFAWIN78 adalah penyedia permainan slot gacor terbaik 2025 yang berikan kemudahan cuan dan wede gede buat pemain dengan sistem pembayaran via dana yang membuat makin gacor!!" />
-  <meta name="keywords" content="fifawin78, link fifawin78, fifawin78 login, slot online, slot gacor, slot88, slot777" />
-  <meta name="page google.com" content="https://www.google.com/search?q=fifawin78">
-  <meta name="page google.co.id" content="https://www.google.co.id/search?q=fifawin78">
-  <meta name="page google.com" content="https://www.google.com/search?q=slot+fifawin78">
-  <meta name="page google.co.id" content="https://www.google.co.id/search?q=slot+fifawin78">
+  <meta name="twitter:description" content="FIFAWIN78 adalah situs bandar slot online terbaik dan terbukti gacor di berbagai permainan seperti mahjong ways 2 pg soft, pragmatic dan banyak lagi lainnya." />
+  <meta name="description" content="FIFAWIN78 adalah situs bandar slot online terbaik dan terbukti gacor di berbagai permainan seperti mahjong ways 2 pg soft, pragmatic dan banyak lagi lainnya." />
   <link rel="preconnect" href="https://images.squarespace-cdn.com">
   <script type="text/javascript" src="//use.typekit.net/ik/YBu34tnxV4Qnak-NQdXM8x5qF7OcRbDshoILwz0AU8Jfe7CgfFHN4UJLFRbh52jhWDjuZcb3ZRqtwAmRwR9oFeFR5eZyw2Ia5gGMJ6lzS1gGZWmDOWgkdkJPjAszjc9lZhBkjAuzdcblSY4zH6GJE_tgIMMjgfMfH6GJujXfIMMjgPMfH6GJEdtgIMMjgkMfH6GJEntgIMMj2KMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZcLNHve.js"></script>
   <script type="text/javascript">
@@ -235,7 +230,7 @@
         "timeZoneOffset": 25200000,
         "timeZoneAbbr": "WIB",
         "siteTitle": "FIFAWIN78",
-        "fullSiteTitle": "FIFAWIN78 >> SITUS SLOT GACOR GAMPANG WEDE SLOT777 RESMI VIA DANA",
+        "fullSiteTitle": "FIFAWIN78 >> SITUS BANDAR SLOT GACOR GAMPANG WEDE MAHJONG WAYS 2 PG SOFT",
         "siteDescription": {
           "html": "",
           "raw": false
@@ -396,7 +391,7 @@
         "permissionType": 1
       },
       "item": {
-        "title": "FIFAWIN78 >> SITUS SLOT GACOR GAMPANG WEDE SLOT777 RESMI VIA DANA",
+        "title": "FIFAWIN78 >> SITUS BANDAR SLOT GACOR GAMPANG WEDE MAHJONG WAYS 2 PG SOFT",
         "id": "65fd0fc7db01f63c712f258e",
         "fullUrl": "https://blog.poski.com/",
         "publicCommentCount": 0,
@@ -525,9 +520,9 @@
         },
         "notificationsRead": {},
         "lastLoginOn": 1710053561233,
-        "displayName": "situs Slot",
-        "firstName": "Slot",
-        "lastName": "Online",
+        "displayName": "slot gacor fifawin78",
+        "firstName": "fifawin78",
+        "lastName": "slot gacor",
         "eligibleForMarketingDiscount": false,
         "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w",
         "bio": "",
@@ -555,7 +550,7 @@
         "65c59c43aeb76a63df61000a": {
           "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w",
           "bio": "",
-          "displayName": "situs Slot"
+          "displayName": "slot gacor fifawin78"
         }
       },
       "impersonatedSession": false,
@@ -629,7 +624,7 @@
     {
       "url": "https://blog.poski.com/",
       "name": "FIFAWIN78",
-      "description": "",
+      "description": "FIFAWIN78 adalah situs bandar slot online terbaik dan terbukti gacor di berbagai permainan seperti mahjong ways 2 pg soft, pragmatic dan banyak lagi lainnya.",
       "image": "https://lambe.info/wp-content/uploads/2025/01/FIFAWIN78.png",
       "@context": "http://schema.org",
       "@type": "WebSite"
@@ -637,9 +632,9 @@
   </script>
   <script type="application/ld+json">
     {
-      "name": "FIFAWIN78 >> SITUS SLOT GACOR GAMPANG WEDE SLOT777 RESMI VIA DANA",
+      "name": "FIFAWIN78 >> SITUS BANDAR SLOT GACOR GAMPANG WEDE MAHJONG WAYS 2 PG SOFT",
       "image": "https://lambe.info/wp-content/uploads/2025/02/slotgacor-20.png",
-      "description": "FIFAWIN78 adalah penyedia permainan slot gacor terbaik 2025 yang berikan kemudahan cuan dan wede gede buat pemain dengan sistem pembayaran via dana yang membuat makin gacor!!",
+      "description": "FIFAWIN78 adalah situs bandar slot online terbaik dan terbukti gacor di berbagai permainan seperti mahjong ways 2 pg soft, pragmatic dan banyak lagi lainnya.",
       "brand": "FIFAWIN78",
       "offers": {
         "price": 678.00,
@@ -710,22 +705,22 @@
 
     .login,
     .register {
-      color: #000000;
+      color: #fff;
       padding: 13px 10px;
     }
 
     .login,
     .login-button {
-      background: linear-gradient(#080600de, #059fdcfe, #059fdcfe, #059fdcfe, #000000d3);
-      border: 2px solid #000000;
-      box-shadow: 0px 0px 3px rgb(255, 242, 0);
+      background: linear-gradient(to bottom, #ec0404 0%, #560000 100%);
+      border: 2px solid #ff0000;
+      box-shadow: 0px 0px 3px #f00;
     }
 
     .register,
     .register-button {
-      background: linear-gradient(#080600de, #059fdcfe, #059fdcfe, #059fdcfe, #000000d3);
-      border: 2px solid #000000;
-      box-shadow: 0px 0px 3px rgb(255, 242, 0);
+      background: linear-gradient(to bottom, #04d3ec 0%, #001756 100%);
+      border: 2px solid #05fafa;
+      box-shadow: 0px 0px 3px #f00;
     }
 
     p a {
@@ -751,116 +746,6 @@
       }
     }
   </script>
-  <script type="application/ld+json" data-rh="true">
-    {
-      "@context": "http://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [{
-        "@type": "ListItem",
-        "position": 1,
-        "item": {
-          "@id": "https://blog.poski.com/",
-          "name": "FIFAWIN78"
-        }
-      }, {
-        "@type": "ListItem",
-        "position": 2,
-        "item": {
-          "@id": "https://blog.poski.com/",
-          "name": "slot gacor"
-        }
-      }, {
-        "@type": "ListItem",
-        "position": 3,
-        "item": {
-          "@id": "https://blog.poski.com/",
-          "name": "slot gacor maxwin"
-        }
-      }, {
-        "@type": "ListItem",
-        "position": 4,
-        "item": {
-          "@id": "https://blog.poski.com/",
-          "name": "slot online gacor"
-        }
-      }, {
-        "@type": "ListItem",
-        "position": 5,
-        "item": {
-          "@id": "https://blog.poski.com/",
-          "name": "FIFAWIN78 >> SITUS SLOT GACOR GAMPANG WEDE SLOT777 RESMI VIA DANA"
-        }
-      }]
-    }
-  </script>
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://blog.poski.com/"
-      },
-      "headline": "FIFAWIN78 >> SITUS SLOT GACOR GAMPANG WEDE SLOT777 RESMI VIA DANA",
-      "description": "FIFAWIN78",
-      "image": [
-        "https://lambe.info/wp-content/uploads/2025/02/slotgacor-20.png",
-        "https://lambe.info/wp-content/uploads/2025/02/slotgacor-20.png"
-      ],
-      "publisher": {
-        "@type": "Organization",
-        "name": "FIFAWIN78",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://lambe.info/wp-content/uploads/2025/02/slotgacor-20.png"
-        }
-      },
-      "datePublished": "2021-09-22T11:13:25Z",
-      "dateModified": "2021-10-09T20:10:25Z"
-    }
-    </script>
-    <script type="application/ld+json">
-      {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [{
-      "@type": "Question",
-      "name": "Apa itu FIFAWIN78?",
-      "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "FIFAWIN78 adalah sebuah platform agen slot online gacor yang menyediakan berbagai permainan slot dengan RTP tinggi, jackpot besar, dan transaksi yang mudah. Dan juga bekerja sama dengan platform ternama seperti slot88, slot777, pragmatic play, pg soft dan lain sebagainya"
-      }
-      }, {
-      "@type": "Question",
-      "name": "Bagaimana cara daftar di FIFAWIN78?",
-      "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Cukup Gampang! Kamu hanya perlu klik link resmi FIFAWIN78, isi formulir dengan benar dan selesaikan pendaftaran. Setelah selesai akun akan langsung aktif dan siap dipakai!"
-      }
-      }, {
-      "@type": "Question",
-      "name": "Apa game slot yang paling mudah menang di FIFAWIN78?",
-      "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Beberapa game slot dengan RTP Tinggi adalah seperti mahjong ways, mahjong ways 2, mahjong wins, starlight princess, gates of olympus, koi gate, caishen wins dan banyak lagi lainnya"
-      }
-      }, {
-      "@type": "Question",
-      "name": "Apakah FIFAWIN78 aman dan terpercaya?",
-      "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ya, FIFAWIN78 menggunakan sistem keamanan tingkat tinggi terupdate untuk melindungi data dan transaksi pemain. FIFAWIN78 juga merupakan bandar slot online berlisensi yang menjamin fair play. FIFAWIN78 mengedepankan kepuasan dan kenyamanan bermain untuk pemain. "
-      }
-      }, {
-      "@type": "Question",
-      "name": "Bagaimana jika saya mengalami kendala saat bermain?",
-      "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Dukungan pelanggan kami beroperasi selama 24/7. Anda bisa menghubungi FIFAWIN78 melalui live chat ketika mengalami kendala."
-          }
-        }]
-        }
-        </script>
   <script type="text/javascript" src="/yhBH4lnOjWpDoOUq"></script>
   <script type="text/javascript" src="/09Vl3QKvrlWHz-tR"></script>
 </head>
@@ -1235,13 +1120,13 @@
                 <div class="header-nav-wrapper">
                   <nav class="header-nav-list">
                     <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-                      <a> FIFAWIN78 </a>
+                         <a href="https://blog.poski.com/"> FIFAWIN78 </a>
                     </div>
                     <div class="header-nav-item header-nav-item--collection">
-                      <a> SLOT ONLINE </a>
+                        <a href="https://blog.poski.com/"> FIFAWIN78 </a>
                     </div>
                     <div class="header-nav-item header-nav-item--collection">
-                      <a> SLOT GACOR HARI INI </a>
+                        <a href="https://blog.poski.com/"> SLOT GACOR </a>
                     </div>
                   </nav>
                 </div>
@@ -1665,17 +1550,17 @@
                 <div class="header-menu-nav-wrapper">
                   <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
                     <a href="/fifawin78" aria-current="page">
-                      <div class="header-menu-nav-item-content"> fifawin78 </div>
+                      <div class="header-menu-nav-item-content"> FIFAWIN78 </div>
                     </a>
                   </div>
                   <div class="container header-menu-nav-item header-menu-nav-item--collection">
-                    <a href="/Slot">
-                      <div class="header-menu-nav-item-content"> Slot </div>
+                    <a href="/slot-dana">
+                      <div class="header-menu-nav-item-content">slot dana </div>
                     </a>
                   </div>
                   <div class="container header-menu-nav-item header-menu-nav-item--collection">
-                    <a href="/Slot Online">
-                      <div class="header-menu-nav-item-content"> Slot Online </div>
+                    <a href="/slot-gacor">
+                      <div class="header-menu-nav-item-content"> slot gacor </div>
                     </a>
                   </div>
                 </div>
@@ -1744,12 +1629,12 @@
     collection-content-wrapper
     product-layout-side-by-side
   ">
-                <article class="ProductItem hentry tag-fifawin78 tag-fifawin78-login tag-slot-gacor author-situs-slot-online post-type-store-item" data-item-id="65fd0fc7db01f63c712f258e">
+                <article class="ProductItem hentry tag-fifawin78 tag-link-fifawin78 tag-fifawin78-login author-fifawin78 post-type-store-item" data-item-id="65fd0fc7db01f63c712f258e">
                   <nav class="ProductItem-nav">
                     <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
                       <a href="/store" class="ProductItem-nav-breadcrumb-link">Store</a>
                       <span class="ProductItem-nav-breadcrumb-separator"></span>
-                      <a href="https://blog.poski.com/" class="ProductItem-nav-breadcrumb-link">FIFAWIN78 >> SITUS SLOT GACOR GAMPANG WEDE SLOT777 RESMI VIA DANA</a>
+                      <a href="https://blog.poski.com/" class="ProductItem-nav-breadcrumb-link">FIFAWIN78 >> SITUS BANDAR SLOT GACOR GAMPANG WEDE MAHJONG WAYS 2 PG SOFT</a>
                     </div>
                   </nav>
                   <section class="ProductItem-summary" data-controller="ProductGallery">
@@ -1816,10 +1701,10 @@
     product-details
     ProductItem-details
   " data-test="pdp-details">
-                      <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title"> FIFAWIN78 >> SITUS SLOT GACOR GAMPANG WEDE SLOT777 RESMI VIA DANA </h1>
+                      <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title"> FIFAWIN78 >> SITUS BANDAR SLOT GACOR GAMPANG WEDE MAHJONG WAYS 2 PG SOFT </h1>
                       <div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
                         <div class="ProductItem-product-price" data-animation-role="content">
-                          <div class="product-price"> IDR 888.88 </div>
+                          <div class="product-price"> IDR 8,999.99 </div>
                           <div data-afterpay="true" data-current-context="{
                                                             &quot;65fd0fc7db01f63c712f258e&quot;: {
                                                               &quot;scarcityEnabled&quot;: false,
@@ -1838,7 +1723,7 @@
                           <div class="pdp-overlay"></div>
                         </div>
                         <div class="ProductItem-details-excerpt" data-content-field="excerpt">
-                          <p><a href="https://blog.poski.com/">FIFAWIN78</a> adalah penyedia permainan slot gacor terbaik 2025 pilihan pemain slot online. Dilengkapi fitur gacor gampang cuan, wede gede dan integrasi sistem pembayaran dana, <a href="https://blog.poski.com/">FIFAWIN78</a> berikan rekomendasi tips menang akun gacor slot online dengan modal minim. Cukup lakukan deposit via dana dan ikutin arahan, potensi kemenangan maxwin lebih besar. Daftar akun gacormu di FIFAWIN78 sekarang dan buktikan sendiri!! </p>
+                          <p><a href="https://blog.poski.com/">FIFAWIN78</a> menyediakan permainan slot online terkini dan terupdate bagi pemain slot. Mahjong Ways 2 PG Soft merupakan salah satu slot gacor terpopuler di situs FIFAWIN78. Ikutin update slot gacor pilihan FIFAWIN78 dengan cukup bergabung dan menjadi member <a href="https://blog.poski.com/">FIFAWIN78</a>, rekomendasi pemilihan <a href="https://blog.poski.com/">slot gacor hari ini</a> memberikan potensi kemenangan besar dalam waktu singkat!  </p>
                         </div>
                         <div class="product-quantity-input" data-item-id="65fd0fc7db01f63c712f258e" data-animation-role="content">
                           <div class="quantity-label">Quantity:</div>
@@ -1847,7 +1732,7 @@
                         <div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
                           <a>
                             <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="65fd0fc2aa1d0858f5af2fe4" data-item-id="65fd0fc7db01f63c712f258e" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart">
-                              <div class="sqs-add-to-cart-button-inner">FIFAWIN78</div>
+                              <div class="sqs-add-to-cart-button-inner">SLOT GACOR</div>
                             </div>
                           </a>
                         </div>
@@ -1883,7 +1768,7 @@
       //# sourceURL=headerPositioning.js
     </script>
     <footer class="sections" id="footer-sections" data-footer-sections>
-      <small class="copyright__content"><a href="https://blog.poski.com/" title="Slot Gacor">fortirwinfmwr.com ©2025 SEO Aress</a></small>
+      <small class="copyright__content"><a href="https://blog.poski.com/" title="Daftar Slot Online">©2025 FIFAWIN78</a></small>
     </footer>
   </div>
   <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.6c05f1e49429ba1d8919cf9e9cce7b3f.js" type="text/javascript"></script>
@@ -1906,7 +1791,6 @@
     <symbol id="twitter-mask" viewBox="0 0 64 64">
       <path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z" />
     </symbol>
-    
   </svg>
 </body>
 
